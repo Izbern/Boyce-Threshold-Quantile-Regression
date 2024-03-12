@@ -6,3 +6,8 @@ This repository contains the data and codes for all the analyses performed in th
 **. TrainData**: This folder contains traindata for building SDMs.
 
 **. validation_points**: This folder contains validation points for threshold estimation. 
+
+**· PandaData**: This folder Includes 910 presence records and the suitable habitat map of giant pandas.
+The dataset is organized into two files:
+*'Panda_Presence_data.xls' the presence records of giant pandas. the location of presence data is represented by latitude and longitude.
+*'Suitable_habitat.tif' the suitable habitat map of giant pandas, where Areas assigned a value of 1 are suitable habitats.
